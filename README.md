@@ -1,4 +1,4 @@
-# ina-covid-bed
+# search tempat tidur kopit
 
 [![website preview](https://api.microlink.io/?url=https%3A%2F%2Fbed.ina-covid.com&overlay.browser=dark&screenshot=true&meta=false&embed=screenshot.url)](https://bed.ina-covid.com)
 
@@ -11,7 +11,7 @@
 
 Change `.env.example` to `.env`
 
-Ask [me](https://twitter.com/agalliosamai) for all the supabase env.
+Ask [me](https://twitter.com/padlikodil) for all the supabase env.
 
 ```bash
 # install
@@ -26,4 +26,4 @@ $ pnpm build
 
 ## Contact
 
-[Twitter](https://twitter.com/agalliosamai)
+[Insta](https://instagram.com/xanzevs)
