@@ -8,11 +8,11 @@ export default function Footer() {
     <footer className={styles.footer}>
       <Text color={dynamicLinkColor} fontSize="sm">
         <a
-          href="https://github.com/agallio/ina-covid-bed"
+          href="https://instagram.com/itspapoy"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Github Repository
+          Made with by fadhli - Copyright All Right Reserved
         </a>
       </Text>
     </footer>
